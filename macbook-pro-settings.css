@@ -1,0 +1,16 @@
+:root {
+	color-scheme: dark;
+	--small-font-size: .875rem;
+
+	--timeline-avatar-size: 2.2rem;
+	--timeline-avatar-gap: .5rem;
+	--timeline-message-gap: .5rem;
+	--timeline-message-gap-small-event: 2rem;
+	--timeline-sender-name-content-gap: .2rem;
+	--timeline-horizontal-padding: .4rem;
+}
+
+body {
+	line-height: 1.2;
+	font-size: 13px;
+}
